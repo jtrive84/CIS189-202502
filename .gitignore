@@ -16,3 +16,5 @@ videos
 announcements.md
 feedback.md
 notes.md
+./misc
+misc/*
